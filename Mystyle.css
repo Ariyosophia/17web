@@ -1,0 +1,23 @@
+.navbar{
+ background-color:pink;
+ padding: 20px; 
+ display:flex;  
+ justify-content: space-between;
+ border-radius: 50px;
+}
+.mylistitems{
+ list-style: none;   
+}
+a{
+  text-decoration: none;   
+}
+.mynavlist{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.mylogo{
+    height: 100PX;
+    width: auto;
+    
+}
