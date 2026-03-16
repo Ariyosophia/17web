@@ -19,5 +19,15 @@ a{
 .mylogo{
     height: 100PX;
     width: auto;
-    
 }
+.mylogo img{
+    height: 100%;
+    width: auto;
+}
+/* .mylogo{height: 90%;width: auto;} */
+.secondsection{display: flex;margin-top: 40px;gap: 40px;max-width: 105px;justify-content: space-between;}
+.h4{
+    color: aqua;
+}
+
+
