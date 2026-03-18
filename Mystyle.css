@@ -25,9 +25,37 @@ a{
     width: auto;
 }
 /* .mylogo{height: 90%;width: auto;} */
-.secondsection{display: flex;margin-top: 40px;gap: 40px;max-width: 105px;justify-content: space-between;}
-.h4{
-    color: aqua;
-}
+.h4,h3{color: hotpink;}
+#thirdsection{display: flex;justify-content: space-between;padding: 30px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
